@@ -5,4 +5,4 @@ dexShellTool 是加密工具;
 
 srcprogram 是源 apk;
 
-shellprogram 是壳 apk;
+unshellprogram 是壳 apk;
